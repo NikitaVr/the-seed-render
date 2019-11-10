@@ -1,3 +1,9 @@
+# Setup
+
+Make sure you have https://github.com/NikitaVr/the-seed-server running locally
+
+Open `./square/layers.html`
+
 # JS Game development examples - Tilemaps
 
 This is a collection of examples on how to implement and use tilemaps in HTML 5 games. You can take a look at these examples [live](https://mozdevs.github.io/gamedev-js-tiles).
